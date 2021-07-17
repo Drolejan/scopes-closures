@@ -1,0 +1,19 @@
+{
+  "name": "scopes-closures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drolejan/scopes-closures.git"
+  },
+  "author": "drolejan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Drolejan/scopes-closures/issues"
+  },
+  "homepage": "https://github.com/Drolejan/scopes-closures#readme"
+}
